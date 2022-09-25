@@ -1,6 +1,6 @@
 ### Tradutor Automatizado
 
-## Aplicação simples para automatizar o processo de tradução para os demais idiomas
+## Aplicação simples para automatizar o processo de tradução para diversos idiomas
 
 Para utilizar, é preciso baixar as dependências e então executar "npm start" para rodar o
 servidor em "server.js".
